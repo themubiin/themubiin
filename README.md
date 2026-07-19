@@ -27,7 +27,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the.mubiin) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/the.mubiin)
 <br>
-<br>
+<br> 
 
 <h3><code>themubiin@github ~ $ ./contributions.sh</code></h3>
 
