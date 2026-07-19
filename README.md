@@ -54,8 +54,7 @@ I am a Web Developer and the Founder & CEO of **WebDextro Ltd**, with a relentle
 ## Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,flutter,js,ts,python,vue,mysql,postgresql,redis,aws,docker,linux,git,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,php,wordpress,cloudflare,js,ts,react,nextjs,vue,c,nodejs,laravel,python,flutter,dart,kotlin,mysql,postgres,firebase,supabase,tailwind,bootstrap,docker,linux,git,github,bash,npm,vscode,figma,ai,ps&perline=12" /></p>
 <br>
 <br>
 
