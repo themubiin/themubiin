@@ -201,4 +201,9 @@ A Bangladesh-focused healthcare platform that helps users compare medical labora
 
 ## Certifications
 
+<div align="center">
+     
+![Google](https://img.shields.io/badge/google-Gemini_Certified_Educator-4285F4?style=for-the-badge&logo=google&logoColor=white) 
+![Meta](https://img.shields.io/badge/Meta--%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+
 ---
