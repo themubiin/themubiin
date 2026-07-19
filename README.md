@@ -7,9 +7,7 @@
 
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
-
-<h3><code>themubiin@github ~ $ whoami</code></h3>
-
+     
 <table>
 <tr>
 <td valign="top"><img src="./ascii.svg" width="370" alt="Muntasir Mubin — ASCII portrait" /></td>
@@ -24,15 +22,14 @@
 
 ## About Me
 
-I am a Software Engineer and the Founder & CEO of **WebDextro Ltd**, with a relentless focus on building high-impact digital infrastructure. My work spans the full stack, from architecting robust SaaS platforms to integrating complex AI/ML pipelines that drive automation and business intelligence. I thrive on translating abstract technical challenges into high-performance, secure, and scalable products.
+I am a Web Developer and the Founder & CEO of **WebDextro Ltd**, with a relentless focus on building high-impact digital infrastructure. My work spans the full stack, from architecting robust SaaS platforms to integrating complex AI/ML pipelines that drive automation and business intelligence. I thrive on translating abstract technical challenges into high-performance, secure, and scalable products.
 
 *   **Engineering Focus:** Distributed systems, scalable SaaS architecture, and AI-driven workflow automation.
 *   **Full Stack:** Mastery of Laravel, Flutter, Vue.js, and modern cloud-native technologies.
 *   **Mindset:** Open-source advocate, product-focused engineer, and continuous learner.
 
 ### Open To
-*   Full-time Engineering & Architectural roles.
-*   AI Project consulting and RAG pipeline development.
+*   Full-time Development & Architectural roles.
 *   Open-source collaborations and technical mentoring.
 *   Strategic startup partnerships and consulting.
 
