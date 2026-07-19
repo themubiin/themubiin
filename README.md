@@ -70,18 +70,9 @@ I am a Software Engineer and the Founder & CEO of **WebDextro Ltd**, with a rele
 <br>
 <br>
 
-
 ---
 
-## Technology Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,flutter,js,ts,python,vue,mysql,postgresql,redis,aws,docker,linux,git,vscode" />
-</p>
-
----
-
-## Featured Projects
 ## 🚀 Featured Projects
 
 <details>
@@ -190,6 +181,8 @@ A Bangladesh-focused healthcare platform that helps users compare medical labora
 </details>
 
 ---
+
+
 
 ## Professional Experience
 
