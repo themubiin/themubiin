@@ -198,38 +198,7 @@ A Bangladesh-focused healthcare platform that helps users compare medical labora
 
 ---
 
-## Achievements
-
-<center>
-
-| Recognition | Details |
-| :--- | :--- |
-| **Innovation** | Lead developer of AmarBangla Digital Initiative |
-| **Entrepreneurship** | Founded WebDextro Ltd (Reg: 15715189) |
-| **Leadership** | Scaled technical operations for multiple SaaS platforms |
-
-</center>
-
----
 
 ## Certifications
 
-### **Industry Standard**
-<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-7B68EE?style=flat-square" />
-<img src="https://img.shields.io/badge/Oracle-Database_Management-7B68EE?style=flat-square" />
-<img src="https://img.shields.io/badge/Cisco-Networking-7B68EE?style=flat-square" />
-<img src="https://img.shields.io/badge/Google-Cloud_Digital_Leader-7B68EE?style=flat-square" />
-
 ---
-
-## Coding Profiles
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-7B68EE?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/HackerRank-7B68EE?style=for-the-badge&logo=hackerrank" />
-  <img src="https://img.shields.io/badge/CodeChef-7B68EE?style=for-the-badge&logo=codechef" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-7B68EE?style=for-the-badge&logo=geeksforgeeks" />
-</p>
-
----
-
