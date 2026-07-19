@@ -184,7 +184,7 @@ A Bangladesh-focused healthcare platform that helps users compare medical labora
 
 
 
-## Professional Experience
+## 🧑🏻‍💼 Professional Experience
 
 ### Founder & CEO
 **WebDextro Ltd** | *2024 - Present*
@@ -199,11 +199,13 @@ A Bangladesh-focused healthcare platform that helps users compare medical labora
 ---
 
 
-## Certifications
+## 🏅 Certifications
 
 <div align="center">
      
 ![Google](https://img.shields.io/badge/google-Gemini_Certified_Educator-4285F4?style=for-the-badge&logo=google&logoColor=white) 
-![Meta](https://img.shields.io/badge/Meta--%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta-Full_Stack_Developer-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=blue) 
+![PrivateInternetAccess](https://img.shields.io/badge/National_Cybersecurity_Agency-Digital_Security_Essentials-%231E811F.svg?style=for-the-badge&logo=privateinternetaccess&logoColor=green) 
+![HTML5](https://img.shields.io/badge/Programing_Hub-HTML_Certification_Course-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=blue)
 
 ---
