@@ -29,16 +29,6 @@
 <br>
 
 <h3><code>themubiin@github ~ $ ./links.sh</code></h3>
-<pre>
-$ whoami
-
-Name      : Muntasir Mubin
-Role      : Founder & CEO
-Company   : WebDextro Ltd
-Location  : Bangladesh
-Focus     : AI • SaaS • Open Source
-Mission   : Building products for Bangladesh
-</pre>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://mubin.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mubiiin)
