@@ -9,7 +9,7 @@
 
 <h3><code>themubiin@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
+<img src="./contrib-heatmap.svg" width="860" alt="Mubin's GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
@@ -18,8 +18,8 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Avi Vashishta — ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Avi Vashishta — experience, stack, highlights" /></td>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Muntasir Mubin — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Muntasir Mubin — experience, stack, highlights" /></td>
 </tr>
 </table>
 
