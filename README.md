@@ -18,18 +18,27 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Muntasir Mubin — ASCII portrait" /></td>
+<td valign="top"><img src="./ascii.svg" width="370" alt="Muntasir Mubin — ASCII portrait" /></td>
 <td valign="top"><img src="./info-card.svg" width="490" alt="Muntasir Mubin — experience, stack, highlights" /></td>
 </tr>
 </table>
 
 <br>
 <br>
-<p><b>Entrepreneur · Web Developer </b></p>
+<p><b>Founder & CEO @ WebDextro Ltd • AI Engineer • Full Stack Developer • Open Source Contributor</b></p>
 <br>
 
 <h3><code>themubiin@github ~ $ ./links.sh</code></h3>
+<pre>
+$ whoami
 
+Name      : Muntasir Mubin
+Role      : Founder & CEO
+Company   : WebDextro Ltd
+Location  : Bangladesh
+Focus     : AI • SaaS • Open Source
+Mission   : Building products for Bangladesh
+</pre>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://mubin.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mubiiin)
